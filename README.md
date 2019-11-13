@@ -1,2 +1,2 @@
-# asteroids-day-final
-add basic screen or win lose rocks divide ect. 
+# astroids-day-2-
+rocks and "poop"
